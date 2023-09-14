@@ -1,7 +1,7 @@
 Initial data:
 Purchase data – October 2018-June 2019 – file “Purchases.csv”
 
-Task 1. Carry out RFM analysis (Practical task)
+##Task 1. Carry out RFM analysis (Practical task)
 
 Based on the initial data (the “Purchases” file), conduct an RFM analysis of user behavior.
 Segmentation of players by duration, number and amount of payments for RFM analysis is below:
